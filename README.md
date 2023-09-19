@@ -1,2 +1,2 @@
 # Portfolio
-This is the portfolio created by myself to showcase my skills.
+This is the portfolio created by Samiksha Jain to showcase her skills.
